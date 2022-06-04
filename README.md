@@ -3,7 +3,7 @@ Implement command ls in C program
 
 
 ## Our Qwasar project
-<p style="color:green; margin-left: 5rem;">
+<p style="color:green; margin-left: 5rem; font-size: 5rem;">
   <a href="https://upskill.us.qwasar.io/users/mirislom_m"> my qwasar account </a>
 </p>
 
