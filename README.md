@@ -3,7 +3,9 @@ Implement command ls in C program
 
 
 ## Our Qwasar project
-
+<p color="green">
+  <a href="https://upskill.us.qwasar.io/users/mirislom_m"> my qwasar account </a>
+</p>
 
 ## Usage
 
